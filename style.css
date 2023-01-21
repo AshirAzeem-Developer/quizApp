@@ -1,0 +1,44 @@
+body {
+    background-color: #461220;
+    /* background-image: url('back.jpg'); */
+
+
+}
+
+h1 {
+    color: #fed0bb !important;
+}
+
+
+.FlexContainer {
+    background-color: #8c2f39;
+}
+
+.textColor {
+
+    color: #fed0bb !important;
+}
+
+button {
+    background-color: #fcb9b2;
+
+    font-size: 1.5rem !important;
+    color: #461220;
+    border: none !important;
+}
+
+.Answers button {
+
+    box-shadow: 5px 8px !important;
+    border-radius: 25px;
+    width: 100% !important;
+    margin: 5px;
+}
+
+.QuizSectionNoDisplay {
+    display: none;
+}
+
+.QuizSectionDisplay {
+    display: block;
+}
